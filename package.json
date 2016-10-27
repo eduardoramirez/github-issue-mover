@@ -1,0 +1,30 @@
+{
+  "name": "github-issue-mover",
+  "description": "Move bulk Github issues across repos",
+  "version": "0.0.1",
+  "homepage": "https://github.com/eduardoramirez/github-issue-mover",
+  "licenses": [
+    {
+      "type": "Apache-2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+    }
+  ],
+  "author": {
+    "name": "Eduardo Ramirez",
+    "email": "eduardo@medium.com"
+  },
+  "keywords": [
+    "github",
+    "issue",
+    "move"
+  ],
+  "main": "IssueMover.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eduardoramirez/github-issue-mover"
+  },
+  "dependencies": {
+    "github": "~2.1.0",
+    "moment": "2.10.6"
+  }
+}
